@@ -26,7 +26,7 @@ This is storytelling reimagined — collaborative, accessible, and inspired.
 
 ## ✨ **Key Features**  
 
-### **AI-Charged Storytelling**  
+### **AI-Powered Storytelling**  
 
 > **Create captivating stories using powerful AI. From generating titles and descriptions to writing full plots and enhancing them, AI helps you every step of the way.**
 
