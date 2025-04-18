@@ -113,6 +113,32 @@ graph TD
 
 ---
 
+## 🔮 **What’s Next for Authorly.ai**
+
+Authorly.ai is just getting started. With the foundation laid, there’s a whole world of creative upgrades and technical refinements on the horizon to make the platform even more powerful, intuitive, and collaborative:
+
+- **Performance Optimizations & Lazy Loading:**  
+  Image handling is currently done using data URIs, which adds significant processing overhead during storage and retrieval. Future updates will introduce lazy loading and optimized image pipelines to drastically improve performance and efficiency across the app.
+
+- **In-Story Image Support:**  
+  The ability to add images directly into story content will open up new creative possibilities. This couldn’t be implemented initially due to limited server storage, but it's high on the roadmap as infrastructure scales.
+
+- **Voice Stories & Audiobooks:**  
+  Soon, creators will be able to transform their written stories into immersive voice experiences — making storytelling more accessible, expressive, and engaging for listeners.
+
+- **Real-Time Collaboration:**  
+  Co-writing is the future. Authorly.ai aims to support real-time collaboration so that friends, writing partners, or creative teams can craft stories together live — just like Google Docs, but for storytelling.
+
+- **Multilingual Storytelling:**  
+  Creativity knows no language barrier. Multilingual story support, along with AI fine-tuned for multiple languages, will enable authors around the world to create and explore stories in their native tongue.
+
+- **Advanced AI Editing Tools:**  
+  Plans are underway to introduce a suite of intelligent editing features — including grammar correction, tone adjustments, style suggestions, and even AI that learns to **mimic an author’s unique writing voice** based on their previous works.
+
+Each of these features is designed to amplify creativity, reduce friction, and make Authorly.ai a truly next-generation platform for writers everywhere.
+
+---
+
 ## 🚀 Getting Started
 
 ### Requirements:
